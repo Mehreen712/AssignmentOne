@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AlphabetsApp</string>
+    <string name="start">START</string>
+    <string name="todo">TODO</string>
 </resources>
